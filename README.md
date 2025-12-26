@@ -9,24 +9,24 @@ The program is modularly designed using multiple source (.c) and header (.h) fil
 
 # Features
 
-View existing ID3 metadata from an MPEG audio file
+-> View existing ID3 metadata from an MPEG audio file
 
-Edit audio tags like title, artist, album, year, and comments
+-> Edit audio tags like title, artist, album, year, and comments
 
-Menu-driven and user-friendly CLI
+-> Menu-driven and user-friendly CLI
 
-Modular code structure for better readability
+-> Modular code structure for better readability
 
-Uses low-level file operations for precise metadata handling
+-> Uses low-level file operations for precise metadata handling
 
 # Technologies Used
 
-C Programming
+-> C Programming
 
-File Handling
+-> File Handling
 
-Structures & Pointers
+-> Structures & Pointers
 
-Command Line Interface
+-> Command Line Interface
 
-MPEG / ID3 Tag Concepts
+-> MPEG / ID3 Tag Concepts
